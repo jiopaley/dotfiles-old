@@ -1,3 +1,3 @@
 
 cp .gitconfig ~/
-cp .tmux.config ~/
+cp .tmux.conf ~/
